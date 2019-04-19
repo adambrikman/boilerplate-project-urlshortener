@@ -1,5 +1,6 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 
+To access the URL Shortener, visit: https://kos.glitch.me/
 
 ### User Stories
 
